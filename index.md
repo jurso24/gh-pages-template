@@ -1,5 +1,5 @@
 ---
 layout: default
 ---
-# {{site.title}}
+# {{Design of Figures HW4}}
 {{site.description}}
