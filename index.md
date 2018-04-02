@@ -2,4 +2,4 @@
 layout: default
 ---
 # Design of Figures HW4
-{{site.description}}
+Josh Urso's Interactive Page
