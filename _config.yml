@@ -3,7 +3,7 @@ title: Josh Urso's Design of Figures Assignment
 description: HW4
 show_downloads: True
 navigation:
-  - title: Home
-    url: /
-  - title: Interactive Figure
+  - title: NIZ Uptake
+    url: niz.html
+  - title: setup
     url: setup
